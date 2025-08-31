@@ -1,6 +1,6 @@
-/*Sanidhya Singh
-24070123140
-ENTC B2*/
+/*Divneev Singh
+24070123043
+ENTC A2*/
 
 #include <iostream>
 using namespace std;
